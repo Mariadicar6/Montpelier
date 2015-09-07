@@ -1,0 +1,57 @@
+.help .img{
+	width: 80% !important;
+	margin: auto;
+}
+
+.all-projects{
+	background-color: #EFEFEF;
+}
+.all-projects img{
+	width: 100%;
+} 
+
+.how-to-help{
+	background-color: #E5CB52;
+}
+
+.how-to-help img{
+	width: 40%;
+}
+
+.annual-accounts{
+ background-color: #EFEFEF;
+}
+
+.annual-accounts a{
+	text-decoration: none;
+	color: black;	
+}
+
+.annual-accounts a:hover{
+	text-decoration: none;	
+	color: #E5CB52;
+}
+
+.partners{
+	background-color: ;
+}
+
+.border{
+	border-right: 2px solid #E5CB52;
+}
+
+.partners .big-bang{
+	width: 70%;
+	padding-top: 10%;
+}
+
+.partners .hampshire, .partners .toniic{
+	width: 40%;
+}
+
+
+
+#demo02, #demo03, #demo04{
+	text-decoration: none;
+	color: black;
+}
